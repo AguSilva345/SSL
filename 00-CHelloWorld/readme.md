@@ -1,1 +1,2 @@
 Utilicé el compilador GCC para compilar el codigo fuente llamado holamundito.c. Instale programas como g++, gcc, gdb. La versión del compilador es 13.2.0, y su estandar es C11
+Primero hice el codigo fuente holamundito.c, luego para compilarlo elegí el compilador gcc el cual ejecuta las instrucciones del lenguaje del codigo fuente. Por lo tanto procedió a imprimir el mensaje "hola mundo" por pantalla.
